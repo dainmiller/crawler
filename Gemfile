@@ -9,7 +9,7 @@ gem 'rspec-core'
 gem 'rspec'
 gem 'httparty'
 gem 'sqlite3'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'coffee-rails', '~> 4.2'
 gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
